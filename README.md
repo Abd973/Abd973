@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi there! I'm Abdulmalik Mahmoud
 
-<!--
-**Abd973/Abd973** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ A passionate Backend Developer  
+---
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Languages: Java, Python, C++
+-  Web: HTML, CSS, JavaScript 
+-  Backend: Spring Boot, REST APIs, JSP, Servlets
+-  Database: MySQL, PostgreSQL
+-  Tools: Git, GitHub, Postman, IntelliJ, Maven
+
+---
+
+## Projects
+
+- 📚 [Book-Social-Network](https://github.com/Abd973/Book-Social-Network): A platform for managing and sharing book collections.
+- 🎫 [Event-Ticketing-System](https://github.com/Abd973/Event-Ticketing-System): A ticket booking system with admin and customer support.
+- 🏥 [Hospital-Management-System](https://github.com/Abd973/Hospital-Management-System): Streamlining hospital operations.
+- 🛒 [Shopping-Cart](https://github.com/Abd973/Shopping-Cart): A basic cart system using Java and JSP.
+
+---
+
+## 📫 Connect with Me
+
+- Cairo, Egypt
+- LinkedIn: https://www.linkedin.com/in/abdulmalik-mahmoud-a0139b251
+- Email: abdulmalik.mahmoud010@gmail.com
+
+---
